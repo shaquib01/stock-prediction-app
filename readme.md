@@ -49,6 +49,6 @@ Contributions to the Stock Prediction App are welcome! Feel free to submit bug r
 
 ## Contact
 
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please contact [shaquibnawaid01@.com](mailto:shaquibnawaid01@gmail.com).
 
-Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shaquibnawaid/)
